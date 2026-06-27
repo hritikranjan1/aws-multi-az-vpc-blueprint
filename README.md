@@ -1,3 +1,13 @@
+![Deploy a highly available web app](./Deploy%20a%20highly%20available%20web%20app.png)
+
+# AWS Production Blueprint: Highly Available Multi-AZ VPC Architecture
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://blogs.hritikranjan.in/series/aws-devops)
+[![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=devops&logoColor=white)](https://blogs.hritikranjan.in/series/devops-journey)
+[![Website](https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blogs.hritikranjan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritikranjan1)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luvranjan143)
+
 ## 🚀 Introduction: Moving Beyond Single-Server Deployments
 
 In the early days of learning the cloud, the easiest way to launch an app is straightforward: spin up a single virtual server, assign it a public IP, and watch it go live. It feels like magic.
